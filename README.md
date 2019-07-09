@@ -1,2 +1,2 @@
-# NLP_Task_with_FastAI
-My nlp tasks with fast.ai
+# NLP_Project_with_FastAI
+My nlp projects with fast.ai
